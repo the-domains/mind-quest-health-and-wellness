@@ -1,0 +1,28 @@
+name: 'Mind-Quest Health & Wellness'
+favicon: null
+layout_spectrum: 0.5300160374026746
+typography_spectrum: 0.03143781260587275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5249256521929055
+  lightness: 0.828123145038262
+  saturation: 0.1956496515776962
+  rhythmicContrast: 0.3103403844870627
+purpose: []
